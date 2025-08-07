@@ -10,6 +10,9 @@ I'm Muhamed Javid Hussain, a senior technical writer who creates clear, user and
 ![Visitors](https://hits.sh/github.com/Javeed-Writer/Portfolio.svg?style=flat-square)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Javeed-Writer.Portfolio)
 
+**Live Portfolio Website:**
+[Click here](https://javeed-writer.github.io/PortfolioWebsite/) to see my portfolio.
+
 ## Portfolio Categories
 
 Welcome! This is my portfolio of technical writing work. Below you'll find categorized links to my developer guides, user guides, and knowledge base articles, all hosted in this repository.
