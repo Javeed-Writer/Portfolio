@@ -4,7 +4,7 @@
 
 I'm Muhamed Javid Hussain, a senior technical writer who creates clear, user and developer documentation. I specialize in transforming complex technical concepts into accessible content that helps users achieve their goals.
 
-- Experience: 9 Years
+- Experience: 6+ Years
 - Specialization: User and API documentation, Pre-release software testing, Functional validation, Release Notes
 
 ![Visitors](https://hits.sh/github.com/Javeed-Writer/Portfolio.svg?style=flat-square)
